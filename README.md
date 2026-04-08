@@ -5,9 +5,9 @@
 
 ---
 
-## 📌 এই Notebook-এ যা যা শিখেছি
+## এই Notebook-এ যা যা শিখেছি
 
-### 🖼️ Image Basics
+### Image Basics
 
 * Image আসলে pixel-এর grid (matrix)
 * Grayscale vs RGB image
@@ -15,14 +15,14 @@
 
 ---
 
-### 🔍 CNN (Convolutional Neural Network)
+### CNN (Convolutional Neural Network)
 
 * CNN কী এবং কেন ব্যবহার করা হয়
 * কেন CNN normal neural network থেকে ভালো image data handle করতে পারে
 
 ---
 
-### 🧩 Convolution Operation
+### Convolution Operation
 
 * Filter / Kernel কীভাবে কাজ করে
 * কীভাবে image-এর উপর sliding করে feature বের করে
@@ -30,26 +30,26 @@
 
 ---
 
-### ⚙️ Important Concepts
+### Important Concepts
 
-#### 🔹 Stride
+####  Stride
 
 * Filter কত step করে move করবে
 
-#### 🔹 Padding
+####  Padding
 
 * Output size control করার জন্য border-এ pixel add করা
 
 ---
 
-### 🧠 Activation Function
+### Activation Function
 
 * ReLU (Rectified Linear Unit)
 * কেন non-linearity দরকার
 
 ---
 
-### 🧊 Pooling Layer
+### Pooling Layer
 
 * Max Pooling / Average Pooling
 * কেন dimension reduce করা হয়
@@ -57,41 +57,16 @@
 
 ---
 
-### 🧬 Feature Extraction
+### Feature Extraction
 
 * CNN কীভাবে ধাপে ধাপে edge → shape → object চিনে
 
 ---
 
-### 🔗 Flatten & Fully Connected Layer
+### Flatten & Fully Connected Layer
 
 * 2D feature map → 1D vector (Flatten)
 * Fully Connected Layer দিয়ে final prediction
 
 ---
 
-## 🎯 আমার Learning Goal
-
-* CNN-এর strong foundation তৈরি করা
-* ভবিষ্যতে Image Classification / Computer Vision project করা
-* Deep Learning + Web Dev combine করে real-world project বানানো
-
----
-
-## 🚀 Future Plan
-
-* CNN দিয়ে একটি real project (e.g. Image Classifier) বানানো
-* TensorFlow / PyTorch ব্যবহার শুরু করা
-* Advanced topics (Transfer Learning, Object Detection) শেখা
-
----
-
-## ✍️ Author
-
-**Dhiman Tarafdar**
-CSE Student | Aspiring AI Engineer 🚀
-Learning DSA + Web Dev + AI
-
----
-
-💡 *এই notebook আমার learning journey-এর অংশ — ভুল থাকলে ভবিষ্যতে update করবো ইনশাআল্লাহ।*
