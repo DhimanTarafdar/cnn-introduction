@@ -1,4 +1,4 @@
-# 🧠 CNN Introduction Notebook (Dhiman Tarafdar)
+# CNN Introduction 
 
 এই notebook-এ আমি Convolutional Neural Network (CNN)-এর basic থেকে core concept পর্যন্ত step-by-step শিখেছি এবং বুঝেছি।
 এটা মূলত আমার learning journey-এর একটা অংশ যেখানে আমি image processing এবং deep learning-এর foundation তৈরি করছি।
